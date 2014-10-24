@@ -25,7 +25,7 @@
              <div class="col-md-4 center-block">
                 <div class="row" >
                   <div class="col-md-2 col-xs-2 center-block ">
-                    <a href="mailto:mlunag@gmail.com" class="socialIcons">
+                    <a href="mailto:mlunag16@gmail.com" class="socialIcons">
                       <img src="assets/img/icon/iconmail.png">
                     </a>
                   </div>
